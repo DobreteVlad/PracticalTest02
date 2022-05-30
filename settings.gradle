@@ -14,3 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "PracticalTest02"
 include ':app'
+include ':httpclient-4.4.1.2'
+include ':jsoup-1.10.2'

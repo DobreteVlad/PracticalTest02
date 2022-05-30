@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">PracticalTest02</string>
+    <string name="server">SERVER</string>
+    <string name="demo2Edit1" />
+    <string name="client">CLIENT</string>
+    <string name="demo2Edit2" />
+    <string name="demo2Edit3" />
+    <string name="demo2Edit4" />
+    <string name="demo2Edit5" />
 </resources>
